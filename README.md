@@ -11,7 +11,7 @@ Construyo herramientas donde la música y el código se cruzan: análisis de con
 
 ## Stack
 
- ·  ·  ·  ·  ·  ·  ·  · 
+`Python` · `Django` · `HTML5` · `CSS3` · `JavaScript` · `SQL / PostgreSQL` · `Git / GitHub` · `Análisis de datos` · `FL Studio`
 
 ## Proyectos
 
